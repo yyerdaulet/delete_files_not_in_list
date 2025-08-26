@@ -6,5 +6,5 @@ This Script useful to clean folder from folders that you don't need.
 Using: 
 1. Put script beside to file(the file that you need to clean) 
 2. Make list of files that you should clean
-3. Run script in such way: python3 script.py list_of_folders.txt target_folder
+3. Run script in such way: python3 script.py folders.txt images
 
